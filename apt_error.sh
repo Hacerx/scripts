@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 echo 'Killing pending process...'
 sudo fuser -vki  /var/lib/dpkg/lock
