@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 echo "Adding repository..."
 sudo add-apt-repository ppa:leaeasy/dde
