@@ -5,11 +5,11 @@ Then, run these commands
 
 First clone the repository
 
-`git clone https://github.com/Hacerx/rpiserver.git`
+`git clone https://github.com/Hacerx/scripts.git`
 
 Execute the script
 
-`bash rpiserver/rpiserver.sh`
+`bash scripts/rpiserver/rpiserver.sh`
 
 This script installs and configure
 - Plex media server
