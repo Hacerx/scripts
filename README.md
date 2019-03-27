@@ -8,4 +8,4 @@ ls
 
 rm -rf extension
 
-Press ALT + F, type r and press Enter
+Press ALT + F2, type r and press Enter
